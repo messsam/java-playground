@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes/Classes.iml" filepath="$PROJECT_DIR$/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Files II/Java Files II.iml" filepath="$PROJECT_DIR$/Java Files II/Java Files II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked Lists/Linked Lists.iml" filepath="$PROJECT_DIR$/Linked Lists/Linked Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/Stacks/Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Time/Time.iml" filepath="$PROJECT_DIR$/Time/Time.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Classes/explore-02.iml" filepath="$PROJECT_DIR$/Java Classes/explore-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/explore-03/explore-03.iml" filepath="$PROJECT_DIR$/explore-03/explore-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-playground.iml" filepath="$PROJECT_DIR$/java-playground.iml" />
+    </modules>
+  </component>
+</project>
