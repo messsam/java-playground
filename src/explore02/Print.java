@@ -1,3 +1,5 @@
+package explore02;
+
 public class Print {
     public static void main(String[] args) {
         int[] arr1 = {3,1,5,6,78,4,2,4};

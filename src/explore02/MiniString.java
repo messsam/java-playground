@@ -1,3 +1,5 @@
+package explore02;
+
 public class MiniString {
     char[] miniString;
 

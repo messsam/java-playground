@@ -1,3 +1,5 @@
+package explore01;
+
 public class Intersection {
 	public static void main(String[] args) {
 		int[] arr1 = {12, 32, 14, 35, 89, 16, 120};

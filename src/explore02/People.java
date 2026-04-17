@@ -1,3 +1,5 @@
+package explore02;
+
 import java.util.*;
 class People {
     public static void main(String[] args) {

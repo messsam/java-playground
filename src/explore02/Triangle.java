@@ -1,3 +1,5 @@
+package explore02;
+
 public class Triangle {
     // Variables.
     Point vertexOne, vertexTwo, vertexThree;

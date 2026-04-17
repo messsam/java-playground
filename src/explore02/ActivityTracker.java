@@ -1,3 +1,5 @@
+package explore02;
+
 public class ActivityTracker {
     int actCals, exMins, stanHrs, moveGoal, exGoal, standGoal;
     public ActivityTracker(int moveGoal, int exGoal, int standGoal) {

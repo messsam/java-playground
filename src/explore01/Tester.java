@@ -1,3 +1,5 @@
+package explore01;
+
 public class Tester {
 	public static void main(String[] args) {
 		char c = args[0].charAt(0);

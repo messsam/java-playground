@@ -1,3 +1,5 @@
+package explore02;
+
 public class Polynomial {
     int[] coefficients;
     public Polynomial() { coefficients = new int[0]; }

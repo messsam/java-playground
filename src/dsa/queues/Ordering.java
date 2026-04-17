@@ -1,3 +1,5 @@
+package dsa.queues;
+
 public class Ordering {
     public static void main(String[] args) {
         Queue q = new Queue(5);

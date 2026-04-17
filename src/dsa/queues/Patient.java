@@ -1,3 +1,5 @@
+package dsa.queues;
+
 public class Patient implements Comparable {
     String name;
     int severity;

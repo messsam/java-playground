@@ -1,3 +1,5 @@
+package explore01;
+
 class MatrixAddition {
 	public static void main(String[] args) {
 		double[][] arr1 = {{1,2,3,4},{5,6,7,8},{9,10,11,12},{13,14,15,16}};
@@ -24,14 +26,12 @@ class MatrixAddition {
 				sum[i][j] = arr1[i][j] + arr2[i][j];
 		return sum;
 	}
-	public static boolean sameLength(double[][] arr1, double[][] arr2, double[][] arr3) {
-		if (arr1.length != arr2.length || arr1.length != arr3.length) return false;
-		if (arr1[0].length != arr2[0].length || arr1[0].length != arr3[0].length) return false;
-		for (int i = 0; i < arr1.length; i++)
-			if (arr1[i].length != arr1[0].length ||
-				arr2[i].length != arr2[0].length ||
-					arr3[i].length != arr3[0].length)
-						return false;
-		return true;
-	}
+    public static boolean sameLength(double[][] arr1, double[][] arr2, double[][] arr3) {
+        if (arr1.length != arr2.length || arr1.length != arr3.length) return false;
+        if (arr1[0].length != arr2[0].length || arr1[0].length != arr3[0].length) return false;
+        for (int i = 0; i < arr1.length; i++)
+            if (arr1[i].length != arr1[0].length || arr2[i].length != arr2[0].length || arr3[i].length != arr3[0].length)
+                return false;
+        return true;
+    }
 }

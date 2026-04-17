@@ -1,3 +1,5 @@
+package explore01;
+
 public class PracticeArrays {
 	public static void main(String[] args) {
 		int[][] arr = {{43,67,345,3241,123},{23,45,57,78,678},{345,67,63,345,24},{342,546,645,657,5},{2,3,45,4,2}};

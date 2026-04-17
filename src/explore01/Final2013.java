@@ -1,3 +1,5 @@
+package explore01;
+
 public class Final2013 {
 	public static double absoluteDifference(double[] arr) {
 		double absoluteDiff = Double.POSITIVE_INFINITY;

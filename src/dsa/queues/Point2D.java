@@ -1,3 +1,5 @@
+package dsa.queues;
+
 class Point2D implements Comparable {
     int x, y;
     public Point2D(int x, int y) {

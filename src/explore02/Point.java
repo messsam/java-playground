@@ -1,3 +1,5 @@
+package explore02;
+
 public class Point {
 
     double x, y;

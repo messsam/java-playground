@@ -1,3 +1,5 @@
+package dsa.trees;
+
 public class L10 {
     public static void main(String[] args) {
         Tree t = new Tree();

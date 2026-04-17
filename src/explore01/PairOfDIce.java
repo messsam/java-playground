@@ -1,3 +1,5 @@
+package explore01;
+
 public class PairOfDIce {
 	int firstDice, secondDice;
 

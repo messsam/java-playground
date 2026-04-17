@@ -1,3 +1,5 @@
+package dsa.queues;
+
 public class IntPriorityQueue {
     int[] queue;
     int nOfItems;

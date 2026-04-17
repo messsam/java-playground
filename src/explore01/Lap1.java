@@ -1,3 +1,5 @@
+package explore01;
+
 import java.util.*;
 
 public class Lap1 {
@@ -11,7 +13,7 @@ public class Lap1 {
 		if (one<0 || two<0 || three<0)
 			System.out.print("A triangle cannot have a negative angle.");
 		else if (one>180 || two>180 || three>180)
-			System.out.print("Error. Each agnle must be less than 180!");
+			System.out.print("Error. Each angle must be less than 180!");
 		else if (one + two + three == 180)
 			System.out.print("A valid triangle!");
 		else

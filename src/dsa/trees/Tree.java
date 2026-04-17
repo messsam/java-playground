@@ -1,3 +1,5 @@
+package dsa.trees;
+
 public class Tree {
     private Node root;
 

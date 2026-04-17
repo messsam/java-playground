@@ -1,3 +1,5 @@
+package dsa.stacks;
+
 public class SpecialStack {
     private intStack stack;
     private intStack min;

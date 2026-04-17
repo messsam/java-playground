@@ -1,3 +1,5 @@
+package explore02;
+
 public class DecToBin {
     public static void main(String[] args) {
         System.out.print(binary(Integer.parseInt(args[0])));

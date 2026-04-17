@@ -1,3 +1,5 @@
+package explore01;
+
 public class Rechtangle {
 	double width, height;
 	boolean isSquare = false;

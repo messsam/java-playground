@@ -1,3 +1,7 @@
+package dsa.queues;
+
+import dsa.stacks.Stack;
+
 public class StackQueue {
     final private Stack queue, temp;
     public StackQueue(int size) { queue = new Stack(size); temp = new Stack(size); }

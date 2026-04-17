@@ -1,3 +1,5 @@
+package dsa.queues;
+
 import java.time.LocalDateTime;
 
 public class YoghurtProduct implements Comparable {

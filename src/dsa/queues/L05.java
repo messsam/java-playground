@@ -1,3 +1,7 @@
+package dsa.queues;
+
+import dsa.stacks.Stack;
+
 public class L05 {
     public static void main(String[] args) {
         IO.print(anagrams("hlol", "olelh"));

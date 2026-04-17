@@ -1,3 +1,5 @@
+package explore03;
+
 import java.util.Scanner;
 
 public class Binomial {
@@ -7,7 +9,7 @@ public class Binomial {
 
          System.out.print("Enter the size of the set: "); int n = sc.nextInt();
          System.out.print("Enter the number of opportunities: "); int k = sc.nextInt();
-         if (n >= k) System.out.print("Error. N should be less than K.");
+         if (n >= k) throw new IllegalArgumentException("N should be less than K.");
          else System.out.print("There are " + binomial(n, k) + " ways to choose " + k + " objects out of " + n);
     }
 

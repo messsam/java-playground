@@ -1,3 +1,5 @@
+package dsa.stacks;
+
 class L04 {
     static void main(String[] args) {
         /*Stack strs = new Stack(3);

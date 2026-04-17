@@ -1,3 +1,7 @@
+package dsa.queues;
+
+import dsa.stacks.Stack;
+
 public class L06 {
     static void main(String[] args) {
         /*PriorityQueue uni = new PriorityQueue(5);

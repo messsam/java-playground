@@ -1,3 +1,5 @@
+package explore02;
+
 public class Swap {
     public static void main(String[] args) { System.out.print(swap(args)); }
     public static String swap(String[] arr) {

@@ -1,3 +1,5 @@
+package explore01;
+
 public class Arithmetic {
 	public static void main(String[] args) {
 		int[] arr = new int[args.length];

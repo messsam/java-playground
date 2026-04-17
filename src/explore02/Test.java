@@ -1,3 +1,5 @@
+package explore02;
+
 public class Test {
     public static void main(String[] args) {
         /*int[] arr1 = new int[Integer.parseInt(args[0])];

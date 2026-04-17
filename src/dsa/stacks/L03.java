@@ -1,3 +1,5 @@
+package dsa.stacks;
+
 public class L03 {
     static void main(String[] args) {
         display(NSE(new int[] {13, 7, 6, 12}));

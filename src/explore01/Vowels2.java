@@ -1,3 +1,5 @@
+package explore01;
+
 import java.util.Scanner;
 
 public class Vowels2 {

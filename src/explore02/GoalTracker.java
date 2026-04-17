@@ -1,3 +1,5 @@
+package explore02;
+
 public class GoalTracker {
     ActivityTracker[] dailyActivity = new ActivityTracker[7];
     int[] goals = new int[3];

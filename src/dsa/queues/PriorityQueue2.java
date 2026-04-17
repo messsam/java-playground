@@ -1,3 +1,5 @@
+package dsa.queues;
+
 public class PriorityQueue2 {
     Comparable[] queue;
     int nOfItems;

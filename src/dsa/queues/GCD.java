@@ -1,4 +1,7 @@
+package dsa.queues;
+
 import java.util.Scanner;
+
 public class GCD {
     static void main() {
         Scanner sc = new Scanner(System.in);

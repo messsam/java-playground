@@ -1,5 +1,6 @@
-// Shuffling the 'args' array of strings.
+package explore02;
 
+// Shuffling the 'args' array of strings.
 public class Tester {
     public static void main(String[] args) { display(shuffle(args)); }
     public static void display(String[] arr) {

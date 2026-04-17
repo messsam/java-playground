@@ -1,7 +1,9 @@
+package dsa.stacks;
+
 public class Stack implements StackInterface {
     final private Object[] stack;
     private int top = -1;
-    Stack(int size) { stack = new Object[size]; }
+    public Stack(int size) { stack = new Object[size]; }
 
     @Override
     public void push(Object x) { if (!isFull()) stack[++top] = x; }

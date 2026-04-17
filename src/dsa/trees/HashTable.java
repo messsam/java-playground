@@ -1,3 +1,5 @@
+package dsa.trees;
+
 public class HashTable {
     Object[] table;
     public HashTable(int length) { table = new Object[length]; }

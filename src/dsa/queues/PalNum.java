@@ -1,3 +1,5 @@
+package dsa.queues;
+
 public class PalNum implements Comparable {
     String num;
     public PalNum(int num) { this.num = ""+num; }

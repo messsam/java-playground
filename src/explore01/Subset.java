@@ -1,3 +1,5 @@
+package explore01;
+
 public class Subset {
 	public static void main(String[] args) {
 		char[] pal = {'l','e','v','e','l'};

@@ -1,3 +1,5 @@
+package explore01;
+
 import java.util.*;
 public class SortedStringMid {
 	public static void main(String args []) {

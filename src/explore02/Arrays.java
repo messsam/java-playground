@@ -1,4 +1,7 @@
+package explore02;
+
 import java.util.Scanner;
+
 public class Arrays {
     public static void main(String[] args) {
         /*int[] arr1 = new int[Integer.parseInt(args[0])];

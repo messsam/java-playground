@@ -1,3 +1,5 @@
+package explore01;
+
 import java.util.Scanner;
 
 public class Fibonacci {
@@ -7,11 +9,11 @@ public class Fibonacci {
 		System.out.print("Enter a number: "); int x = sc.nextInt();
 
 		if (x < 0) System.out.print("Error.");
-		else if (x == 0) System.out.print("The 0th fibenocci number is: 0");
-		else if (x == 1) System.out.print("The 1st fibenocci number is: 1");
-		else if (x == 2) System.out.print("The 2nd fibenocci number is: 1");
-		else if (x == 3) System.out.print("The 3rd fibenocci number is: 2");
-		else System.out.print("The "+x+"th fibenocci number is: "+ fib(x));
+		else if (x == 0) System.out.print("The 0th Fibonacci number is: 0");
+		else if (x == 1) System.out.print("The 1st Fibonacci number is: 1");
+		else if (x == 2) System.out.print("The 2nd Fibonacci number is: 1");
+		else if (x == 3) System.out.print("The 3rd Fibonacci number is: 2");
+		else System.out.print("The "+x+"th Fibonacci number is: "+ fib(x));
 	}
 
 	public static int fib (int x) {

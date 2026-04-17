@@ -1,4 +1,6 @@
-import java.util.*;
+package explore01;
+
+import java.util.Scanner;
 
 public class Huh {
 	public static void main (String args []) {

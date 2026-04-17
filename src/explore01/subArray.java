@@ -1,3 +1,5 @@
+package explore01;
+
 public class subArray {
 	public static void main(String[] args) {
 		int[][] arr = {{5,3,7,9,4}, {1,4,7,4,0}, {8,4,2,6,2}, {5,9,3,5,9}, {4,3,7,9,2}};

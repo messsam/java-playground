@@ -1,3 +1,5 @@
+package explore02;
+
 public class LenDecom {
     public static void main(String[] args) {
         StringBuilder sentence = new StringBuilder();

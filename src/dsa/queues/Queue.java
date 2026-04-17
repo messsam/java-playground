@@ -1,3 +1,5 @@
+package dsa.queues;
+
 public class Queue {
     final private Object[] queue;
     private int noOfObjects = 0, front = 0, rear = -1;

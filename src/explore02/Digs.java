@@ -1,3 +1,5 @@
+package explore02;
+
 import java.util.Scanner;
 public class Digs {
     public static void main(String[] args) {

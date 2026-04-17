@@ -1,3 +1,5 @@
+package explore01;
+
 public class Room {
 	int roomNumber, daysRented, bedsNumber;
 	double rentalRate; String guestName;

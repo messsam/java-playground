@@ -1,3 +1,5 @@
+package explore02;
+
 public class Complex {
     double real, imaginary;
 

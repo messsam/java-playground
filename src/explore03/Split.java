@@ -1,3 +1,5 @@
+package explore03;
+
 public class Split {
     public static void main(String[] args) {
         int[] arr = {13, -42, 8, 35, -7, 46, 28, -19};

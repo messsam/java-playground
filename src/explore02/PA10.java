@@ -1,3 +1,5 @@
+package explore02;
+
 public class PA10 {
     public static void main(String[] args) {
         int[][] arr = {{3,6,8,4,2,4,57}, {45,6,79}, {400, 2}, {5,7,8,4,3,5,6,7,4,22,4,6,8,9}};

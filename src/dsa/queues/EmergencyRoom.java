@@ -1,3 +1,5 @@
+package dsa.queues;
+
 public class EmergencyRoom {
     PriorityQueue queue;
     int roomNumber;

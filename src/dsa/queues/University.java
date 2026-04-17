@@ -1,3 +1,5 @@
+package dsa.queues;
+
 public class University implements Comparable {
     String name;
     int rank;

@@ -1,3 +1,7 @@
+package dsa.queues;
+
+import dsa.stacks.Stack;
+
 public class SuperMarket {
     String name;
     PriorityQueue products;

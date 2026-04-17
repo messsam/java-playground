@@ -1,3 +1,5 @@
+package explore02;
+
 public class Person {
     String name, dateOfBirth;
     int age, birthYear, birthMonth, birthDay;

@@ -1,3 +1,5 @@
+package explore03;
+
 import java.util.Scanner;
 
 public class PA6 {

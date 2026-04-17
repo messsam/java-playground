@@ -1,3 +1,5 @@
+package explore02;
+
 public class Car {
     String make, model;
     boolean isRunning;

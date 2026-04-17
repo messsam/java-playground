@@ -1,3 +1,5 @@
+package dsa.stacks;
+
 public class intStack {
     private int[] stack;
     private int top = -1;

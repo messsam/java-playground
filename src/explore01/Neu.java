@@ -1,3 +1,5 @@
+package explore01;
+
 public class Neu {
 	public static void main(String[] args) {
 		int[] arr = {2, 5, 1, 7, 3, 78, 3, 5, 3, 4, 56 ,33 , 5, 6, 3, 3};

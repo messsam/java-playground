@@ -1,4 +1,4 @@
-import java.util.*;
+package explore01;
 
 public class Arrange {
 	public static String ranOrder(int x) {
