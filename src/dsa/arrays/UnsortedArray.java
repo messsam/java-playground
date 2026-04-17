@@ -1,3 +1,5 @@
+package dsa.arrays;
+
 public class UnsortedArray {
     int[] arr; int total;
 

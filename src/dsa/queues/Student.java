@@ -1,3 +1,5 @@
+package dsa.queues;
+
 public class Student implements Comparable {
     String name, major;
     int ID;

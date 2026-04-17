@@ -1,3 +1,5 @@
+package dsa.arrays;
+
 public class UserArray {
     User[] arr; int total;
     UserArray(int size) { arr = new User[size]; }
@@ -44,15 +46,15 @@ public class UserArray {
 
     static void main(String[] args) {
         UserArray array = new UserArray(10);
-        array.insert(new User("Mohand", 29300));
-        array.insert(new User("Momen", 34202));
+        array.insert(new User("Mohand", "34re", 29300));
+        array.insert(new User("Momen", "erhdf", 34202));
         array.delete(array.arr[0]); IO.println(array.arr[0]);
-        array.insert(new User("Mohand", 29300));
-        array.insert(new User("Ahmed", 45378));
-        array.insert(new User("Alaa", 33326));
-        array.insert(new User("Sara", 87690));
-        array.insert(new User("Youssef", 35321));
-        array.insert(new User("Osama", 86978));
+        array.insert(new User("Mohand", "erye5", 29300));
+        array.insert(new User("Ahmed", "5y4e", 45378));
+        array.insert(new User("Alaa", "5ye4th", 33326));
+        array.insert(new User("Sara", "hgfse", 87690));
+        array.insert(new User("Youssef", "wqrwegj", 35321));
+        array.insert(new User("Osama", "iyljfg3@", 86978));
         System.out.println(array.biSearch(array.arr[6]));
         System.out.print(array);
     }

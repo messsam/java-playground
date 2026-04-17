@@ -1,3 +1,5 @@
+package dsa.arrays;
+
 public class StudentArray {
     Student[] arr; int total;
     StudentArray(int size) { arr = new Student[size]; }
@@ -33,15 +35,15 @@ public class StudentArray {
 
     static void main(String[] args) {
         StudentArray array = new StudentArray(10);
-        array.insert(new Student("Mohand", 29300, 0.7));
-        array.insert(new Student("Momen", 34202, 1.3));
+        array.insert(new Student("Mohand","Essam", 29300, 0.7));
+        array.insert(new Student("John", "Doe", 34202, 1.3));
         array.delete(array.arr[0]); IO.println(array.arr[0]);
-        array.insert(new Student("Mohand", 29300, 0.7));
-        array.insert(new Student("Ahmed", 45378, 0.9));
-        array.insert(new Student("Alaa", 33326, 2.3));
-        array.insert(new Student("Sara", 87690, 2));
-        array.insert(new Student("Youssef", 35321, 4));
-        array.insert(new Student("Osama", 86978, 1.88));
+        array.insert(new Student("Mohand", "Essam", 29300, 0.7));
+        array.insert(new Student("Ahmed", "Gamal", 45378, 0.9));
+        array.insert(new Student("Alaa", "Refaat", 33326, 2.3));
+        array.insert(new Student("Sara", "Maged", 87690, 2));
+        array.insert(new Student("Youssef", "Ahmed", 35321, 4));
+        array.insert(new Student("Osama", "Shaarawy", 86978, 1.88));
         System.out.println(array); array.sort(); System.out.print(array);
     }
 }

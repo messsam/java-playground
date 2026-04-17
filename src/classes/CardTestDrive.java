@@ -5,15 +5,15 @@ import static org.junit.Assert.*;
 
 public class CardTestDrive {
     @Test public void valentineTest() {
-        Card vc = new ValentineCard("Sara");
+        Card vc = new ValentineCard("John");
         assertEquals("Love and Kisses.", vc.greetings());
     }
     @Test public void HolidayTest() {
-        Card hc = new HolidayCard("Sara", Season.Summer);
-        assertEquals("Summer's Greetings, Sara.", hc.greetings());
+        Card hc = new HolidayCard("John", Season.Summer);
+        assertEquals("Summer's Greetings, John.", hc.greetings());
     }
     @Test public void birthdayTest() {
-        Card bc = new BirthdayCard("Sara");
-        assertEquals("Happy Birthday, Sara.", bc.greetings());
+        Card bc = new BirthdayCard("John");
+        assertEquals("Happy Birthday, John.", bc.greetings());
     }
 }
