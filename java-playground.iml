@@ -18,5 +18,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="javafx.base" level="project" />
+    <orderEntry type="library" name="javafx-sdk-25" level="project" />
   </component>
 </module>
